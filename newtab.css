@@ -1,0 +1,38 @@
+
+body{
+    overflow-x: hidden;
+    background-color: #ffffff !important;
+}
+.container{
+    background-color: #eeeeee;
+    border-left: 10px dashed rgb(15, 15, 168);
+    border-right: 5px dashed lightblue;
+}
+.imgDiv{
+    background-color: lightblue;
+    margin-right: 2em;
+    margin-bottom: 1em;
+    overflow: hidden;
+    border-radius: 15px;
+}
+#movies{
+    margin-left: 1em;
+}
+.title{
+    color: rgb(0, 0, 0);
+    text-shadow: 2px 2px #4bb2ee;
+    font-size: 3.5em;
+    font-weight: 300;
+    text-align: center;
+}
+.movie-title{
+    font-size: 1em;
+    max-width: fit-content;
+}
+.card-body{
+    padding: 0.8em !important;
+}
+.imgClass{
+    height: 300px;
+    width: 200px;
+}
